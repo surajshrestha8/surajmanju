@@ -35,7 +35,7 @@
 
 | Album/Video | Link |
 |-------------|------|
-|Photos| [📂 View Photos](https://drive.google.com/your-link-here) |
+|Photos| [📂 View Photos]https://drive.google.com/drive/folders/1HNTWVTKamWfGvgE55BLp6ctCa-jacIYL?usp=sharing |
 | Video | [📂 View Photos](https://drive.google.com/your-link-here) |
 | Reception | [📂 View Photos](https://drive.google.com/your-link-here) 
 
